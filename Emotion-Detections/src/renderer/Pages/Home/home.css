@@ -1,0 +1,164 @@
+#emotions{
+  position: absolute;
+width: 134px;
+height: 31px;
+left: 117px;
+top: 59px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 600;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+
+
+/* gradient */
+
+background: linear-gradient(87.16deg, #4371F8 -7.13%, #FA6234 43.67%, #4A89F3 75.33%, #FD83A1 122.45%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+#login{
+  position: absolute;
+width: 75px;
+height: 24px;
+left: 1076px;
+top: 59px;
+margin:26px 0px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #0C0C0C;
+}
+#register{
+  position: absolute;
+width: 151px;
+height: 49px;
+left: 1169px;
+top: 59px;
+margin: 13px 0px;
+background: #FC4A1A;
+border-radius: 50px;
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+  border-color: transparent;
+color: #FFFFFF;
+}
+#emote1{
+
+  transform: rotate(-16.81deg);
+
+position: absolute;
+width: 85.02px;
+height: 85.02px;
+left: 289.47px;
+top: 593.46px;
+}
+#emote2{
+  position: absolute;
+  width: 83.63px;
+  height: 83.63px;
+  left: 1035px;
+  top: 183.4px;
+  transform: rotate(-41.49deg);
+}
+#emote3{
+    position: absolute;
+    width: 184.3px;
+    height: 202.38px;
+    left: 148.31px;
+    top: 202.3px;
+    transform: rotate(11deg)
+}
+#ellipse3{
+  position: absolute;
+width: 193px;
+height: 193px;
+left: 64px;
+top: 287px;
+background: rgba(252, 74, 26, 0.8);
+filter: blur(125px);
+}
+#emote4{
+  position: absolute;
+width: 156.06px;
+height: 161.19px;
+left: 1035.8px;
+top: 350.16px;
+
+transform: rotate(317deg);
+}
+#ellipse4{
+
+position: absolute;
+width: 193px;
+height: 193px;
+left: 1184px;
+top: 530px;
+
+background: #5D55BE;
+filter: blur(125px);
+}
+#emote6{
+  position: absolute;
+  width: 300.04px;
+  height: 300.65px;
+  left: 768.37px;
+  top: 515.44px;
+  transform: rotate(13deg);
+}
+#emote5{
+
+
+}
+#text1{
+  position: absolute;
+width: 631px;
+height: 190px;
+left: 404px;
+top: 163px;
+
+font-family: 'Rubik';
+font-style: normal;
+font-weight: 800;
+font-size: 80px;
+line-height: 85px;
+text-align: center;
+
+color: #000000;
+}
+#feelings{
+  background: linear-gradient(87.16deg, #4371F8 -7.13%, #FA6234 43.67%, #4A89F3 75.33%, #FD83A1 122.45%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+#text2{
+  position: absolute;
+  width: 491px;
+  height: 152px;
+  left: 470px;
+  top: 390px;
+  font-family: "Rubik";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 27px;
+  text-align: center;
+  color: #000000;
+}
+
+

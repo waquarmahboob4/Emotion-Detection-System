@@ -1,0 +1,215 @@
+#emotionss{
+    position: absolute;
+  width: 134px;
+  height: 31px;
+  left: 117px;
+  top: 59px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+
+  /* gradient */
+
+  background: linear-gradient(87.16deg, #4371F8 -7.13%, #FA6234 43.67%, #4A89F3 75.33%, #FD83A1 122.45%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  filter: blur(10px);
+  }
+  #logins{
+    position: absolute;
+  width: 75px;
+  height: 24px;
+  left: 1076px;
+  top: 59px;
+  margin:26px 0px;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+
+
+  color: #0C0C0C;
+      filter: blur(2px);
+  }
+  #registers{
+    position: absolute;
+  width: 151px;
+  height: 49px;
+  left: 1169px;
+  top: 59px;
+  margin: 13px 0px;
+  background: #FC4A1A;
+  border-radius: 50px;
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  /* identical to box height */
+
+    border-color: transparent;
+  color: #FFFFFF;
+      filter: blur(2px);
+  }
+  #emotes1{
+
+    transform: rotate(-16.81deg);
+
+  position: absolute;
+  width: 85.02px;
+  height: 85.02px;
+  left: 289.47px;
+  top: 593.46px;
+      filter: blur(2px);
+  }
+  #emotes2{
+    position: absolute;
+    width: 83.63px;
+    height: 83.63px;
+    left: 1035px;
+    top: 183.4px;
+    transform: rotate(-41.49deg);
+        filter: blur(2px);
+  }
+  #ellipses3{
+    position: absolute;
+  width: 193px;
+  height: 193px;
+  left: 64px;
+  top: 287px;
+  background: rgba(252, 74, 26, 0.8);
+      filter: blur(130px);
+  }
+  #ellipses4{
+
+    position: absolute;
+    width: 193px;
+    height: 193px;
+    left: 1184px;
+    top: 530px;
+
+    background: #5D55BE;
+        filter: blur(130px);
+    }
+  .registerModal{
+    position: absolute;
+  width: 594px;
+  height: 577px;
+  left: 423px;
+  top: 161px;
+
+  background: rgb(248 204 192 / 23%);
+  border-radius: 41px;
+
+  }
+
+
+  .form-control {
+    width: 465px;
+    height: 75px;
+    border: none !important;
+    background: #FFE2DB;
+  border-radius: 19px;
+    color: #FC4A1A;
+    padding-left:20px;
+    left: 423px;
+  top: 161px;
+  }
+  ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: red;
+    opacity: 1; /* Firefox */
+    padding: 10px 20px;
+  }
+  .formG{
+    margin: 10px 70px !important;
+  }
+  #btn1{
+    margin: 10px 70px !important;
+    position: absolute;
+  width: 465px;
+  height: 75px;
+  border: none !important;
+  color:white;
+  background: #FC4A1A;
+  border-radius: 19px;
+  padding-left:20px;
+  }
+  #registerUsers{
+    margin: 16px 116px!important;
+  }
+
+  #btn2{
+    margin: 111px 70px !important;
+    position: absolute;
+  width: 465px;
+  height: 75px;
+  border: none !important;
+  color:white;
+  background: #FC4A1A;
+  border-radius: 19px;
+  padding-left:20px;
+  }
+  /* #registerUser{
+    position: absolute;
+  width: 176px;
+  height: 36px;
+  left: 30px;
+  top: 3px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+  /* identical to box height */
+
+
+  /* color: #000000; */
+  /* } */
+  /* label{
+    position: absolute;
+  width: 51px;
+  height: 24px;
+  left: 485px;
+  top: 287px;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px; */
+  /* identical to box height */
+
+
+  /* color: #000000; */
+  /* } */
+  Form.Label{
+    width:100%;
+  }
+  Form.Control{
+    width: 100% i !important;
+  }
+  #userName{
+    background: linear-gradient(87.16deg, #4371F8 -7.13%, #FA6234 43.67%, #4A89F3 75.33%, #FD83A1 122.45%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+
+  font-family: 'Rubik';
+  font-style: normal;
+  }
+  #gridLoader
+  {
+    margin: 111px 206px !important;
+    position: absolute;
+  }
