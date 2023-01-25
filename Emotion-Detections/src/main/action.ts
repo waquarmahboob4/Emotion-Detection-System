@@ -31,7 +31,7 @@ export default class ActionsBuilder {
 
       if (data === true) {
         this.pyshell = new PythonShell(
-          'E:/Minor Project/Emotion-Detections/src/main/Emotion_Detection/main.py'
+          'E:/Minor Project/Emotion Detection System/Emotion-Detections/src/main/Emotion_Detection/main.py'
         );
 
         this.pythProcess = this.pyshell.childProcess;
